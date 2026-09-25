@@ -6,7 +6,7 @@ const Home = () => {
     <div className="flex flex-col items-start justify-start h-screen bg-black">
       <div className="flex items-center p-4">
         <span className="text-[#ffbe00] text-3xl">♥</span>
-        <h1 className="text-[#ffffff] text-3xl ml-2">Whicks</h1>
+        <h1 className="text-[#ffffff] text-3xl ml-2">Vicks</h1>
       </div>
       <div className="flex w-full max-w-6xl p-8 bg-black shadow-lg rounded-lg mt-4">
         <div className="flex-1 flex flex-col items-center justify-center">
